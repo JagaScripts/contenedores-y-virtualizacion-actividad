@@ -1,0 +1,136 @@
+2025-10-24 15:18:48,113 - app - INFO - ✅ Base de datos encontrada
+2025-10-24 15:18:48,113 - app - INFO - 🚀 JaGaStore API iniciada
+2025-10-24 15:18:52,556 - services - INFO - Se obtuvieron 10 usuarios
+2025-10-24 15:18:52,561 - services - INFO - Usuario encontrado: john@gmail.com (ID: 1)
+2025-10-24 15:18:52,566 - services - INFO - Se obtuvieron 20 productos
+2025-10-24 15:18:52,572 - services - INFO - Se encontraron 4 productos en la categoría men's clothing
+2025-10-24 15:18:52,577 - services - INFO - Se obtuvieron 7 carritos
+2025-10-24 15:18:52,601 - services - INFO - Usuario creado exitosamente: test@example.com (ID: 11)
+2025-10-24 15:18:52,604 - services - INFO - Usuario encontrado: john@gmail.com (ID: 1)
+2025-10-24 15:18:52,606 - services - INFO - Usuario actualizado exitosamente: john@gmail.com (ID: 1)
+2025-10-24 15:18:52,610 - services - INFO - Usuario encontrado: test@example.com (ID: 11)
+2025-10-24 15:18:52,615 - services - INFO - Usuario eliminado exitosamente: test@example.com (ID: 11)
+2025-10-24 15:18:52,620 - services - WARNING - Usuario no encontrado: ID 999
+2025-10-24 15:18:52,625 - services - WARNING - Producto no encontrado: ID 999
+2025-10-24 15:18:52,634 - services - WARNING - Usuario no encontrado: ID 9999
+2025-10-24 15:18:52,638 - services - WARNING - Usuario no encontrado: ID 9999
+2025-10-24 15:18:52,638 - services - WARNING - Usuario no encontrado para eliminar: ID 9999
+2025-10-24 15:18:52,642 - services - WARNING - Usuario no encontrado: ID 9999
+2025-10-24 15:18:52,642 - services - WARNING - Usuario no encontrado para actualizar: ID 9999
+2025-10-24 15:20:26,307 - app - INFO - 🛑 JaGaStore API detenida
+2025-10-24 15:20:26,904 - app - INFO - ✅ Base de datos encontrada
+2025-10-24 15:20:26,904 - app - INFO - 🚀 JaGaStore API iniciada
+2025-10-24 15:20:29,610 - app - INFO - 🛑 JaGaStore API detenida
+2025-10-24 15:20:30,206 - app - INFO - ✅ Base de datos encontrada
+2025-10-24 15:20:30,206 - app - INFO - 🚀 JaGaStore API iniciada
+2025-10-24 15:20:58,679 - app - INFO - 🛑 JaGaStore API detenida
+2025-10-24 15:20:59,201 - app - INFO - ✅ Base de datos encontrada
+2025-10-24 15:20:59,202 - app - INFO - 🚀 JaGaStore API iniciada
+2025-10-24 15:21:00,906 - app - INFO - 🛑 JaGaStore API detenida
+2025-10-24 15:21:01,460 - app - INFO - ✅ Base de datos encontrada
+2025-10-24 15:21:01,460 - app - INFO - 🚀 JaGaStore API iniciada
+2025-10-24 15:21:19,808 - app - INFO - 🛑 JaGaStore API detenida
+2025-10-24 15:21:32,065 - app - INFO - ✅ Base de datos encontrada
+2025-10-24 15:21:32,066 - app - INFO - 🚀 JaGaStore API iniciada
+2025-10-24 15:21:36,495 - services - INFO - Se obtuvieron 10 usuarios
+2025-10-24 15:21:36,501 - services - INFO - Usuario encontrado: john@gmail.com (ID: 1)
+2025-10-24 15:21:36,506 - services - INFO - Se obtuvieron 20 productos
+2025-10-24 15:21:36,512 - services - INFO - Se encontraron 4 productos en la categoría men's clothing
+2025-10-24 15:21:36,516 - services - INFO - Se obtuvieron 7 carritos
+2025-10-24 15:21:36,533 - services - INFO - Usuario creado exitosamente: test@example.com (ID: 11)
+2025-10-24 15:21:36,538 - services - INFO - Usuario encontrado: john@gmail.com (ID: 1)
+2025-10-24 15:21:36,539 - services - INFO - Usuario actualizado exitosamente: john@gmail.com (ID: 1)
+2025-10-24 15:21:36,546 - services - INFO - Usuario encontrado: test@example.com (ID: 11)
+2025-10-24 15:21:36,551 - services - INFO - Usuario eliminado exitosamente: test@example.com (ID: 11)
+2025-10-24 15:21:36,555 - services - WARNING - Usuario no encontrado: ID 999
+2025-10-24 15:21:36,559 - services - WARNING - Producto no encontrado: ID 999
+2025-10-24 15:21:36,564 - services - WARNING - Usuario no encontrado: ID 9999
+2025-10-24 15:21:36,568 - services - WARNING - Usuario no encontrado: ID 9999
+2025-10-24 15:21:36,568 - services - WARNING - Usuario no encontrado para eliminar: ID 9999
+2025-10-24 15:21:36,572 - services - WARNING - Usuario no encontrado: ID 9999
+2025-10-24 15:21:36,573 - services - WARNING - Usuario no encontrado para actualizar: ID 9999
+2025-10-24 15:21:36,780 - app - INFO - 🛑 JaGaStore API detenida
+2025-10-24 16:21:02,082 - app - INFO - ✅ Base de datos encontrada
+2025-10-24 16:21:02,082 - app - INFO - 🚀 JaGaStore API iniciada
+2025-10-24 16:21:05,591 - app - INFO - 🛑 JaGaStore API detenida
+2025-10-24 16:23:53,887 - app - INFO - ✅ Base de datos encontrada
+2025-10-24 16:23:53,887 - app - INFO - 🚀 JaGaStore API iniciada
+2025-10-24 16:27:48,679 - services - INFO - Se obtuvieron 10 usuarios
+2025-10-24 16:29:43,025 - services - INFO - Se obtuvieron 10 usuarios
+2025-10-24 16:29:43,030 - services - INFO - Usuario encontrado: john@gmail.com (ID: 1)
+2025-10-24 16:29:43,035 - services - INFO - Se obtuvieron 20 productos
+2025-10-24 16:29:43,044 - services - INFO - Se encontraron 4 productos en la categoría men's clothing
+2025-10-24 16:29:43,052 - services - INFO - Se obtuvieron 7 carritos
+2025-10-24 16:29:43,064 - services - INFO - Usuario creado exitosamente: test@example.com (ID: 11)
+2025-10-24 16:29:43,070 - services - INFO - Usuario encontrado: john@gmail.com (ID: 1)
+2025-10-24 16:29:43,072 - services - INFO - Usuario actualizado exitosamente: john@gmail.com (ID: 1)
+2025-10-24 16:29:43,078 - services - INFO - Usuario encontrado: test@example.com (ID: 11)
+2025-10-24 16:29:43,084 - services - INFO - Usuario eliminado exitosamente: test@example.com (ID: 11)
+2025-10-24 16:29:43,090 - services - WARNING - Usuario no encontrado: ID 999
+2025-10-24 16:29:43,097 - services - WARNING - Producto no encontrado: ID 999
+2025-10-24 16:29:43,106 - services - WARNING - Usuario no encontrado: ID 9999
+2025-10-24 16:29:43,111 - services - WARNING - Usuario no encontrado: ID 9999
+2025-10-24 16:29:43,111 - services - WARNING - Usuario no encontrado para eliminar: ID 9999
+2025-10-24 16:29:43,117 - services - WARNING - Usuario no encontrado: ID 9999
+2025-10-24 16:29:43,117 - services - WARNING - Usuario no encontrado para actualizar: ID 9999
+2025-10-24 16:29:43,337 - app - INFO - 🛑 JaGaStore API detenida
+2025-10-24 16:36:37,712 - app - INFO - ✅ Base de datos encontrada
+2025-10-24 16:36:37,712 - app - INFO - 🚀 JaGaStore API iniciada
+2025-10-24 16:37:21,382 - services - INFO - Se obtuvieron 10 usuarios
+2025-10-24 16:37:21,392 - services - INFO - Usuario encontrado: john@gmail.com (ID: 1)
+2025-10-24 16:37:21,402 - services - INFO - Se obtuvieron 20 productos
+2025-10-24 16:37:21,413 - services - INFO - Se encontraron 4 productos en la categoría men's clothing
+2025-10-24 16:37:21,421 - services - INFO - Se obtuvieron 7 carritos
+2025-10-24 16:37:21,448 - services - INFO - Usuario creado exitosamente: test@example.com (ID: 11)
+2025-10-24 16:37:21,459 - services - INFO - Usuario encontrado: john@gmail.com (ID: 1)
+2025-10-24 16:37:21,460 - services - INFO - Usuario actualizado exitosamente: john@gmail.com (ID: 1)
+2025-10-24 16:37:21,469 - services - INFO - Usuario encontrado: test@example.com (ID: 11)
+2025-10-24 16:37:21,477 - services - INFO - Usuario eliminado exitosamente: test@example.com (ID: 11)
+2025-10-24 16:37:21,485 - services - WARNING - Usuario no encontrado: ID 999
+2025-10-24 16:37:21,492 - services - WARNING - Producto no encontrado: ID 999
+2025-10-24 16:37:21,506 - services - WARNING - Usuario no encontrado: ID 9999
+2025-10-24 16:37:21,512 - services - WARNING - Usuario no encontrado: ID 9999
+2025-10-24 16:37:21,513 - services - WARNING - Usuario no encontrado para eliminar: ID 9999
+2025-10-24 16:37:21,521 - services - WARNING - Usuario no encontrado: ID 9999
+2025-10-24 16:37:21,521 - services - WARNING - Usuario no encontrado para actualizar: ID 9999
+2025-10-24 16:37:21,743 - app - INFO - 🛑 JaGaStore API detenida
+2025-10-24 16:37:46,641 - app - INFO - ✅ Base de datos encontrada
+2025-10-24 16:37:46,641 - app - INFO - 🚀 JaGaStore API iniciada
+2025-10-24 16:38:11,856 - services - INFO - Se obtuvieron 10 usuarios
+2025-10-24 16:38:11,866 - services - INFO - Usuario encontrado: john@gmail.com (ID: 1)
+2025-10-24 16:38:11,874 - services - INFO - Se obtuvieron 20 productos
+2025-10-24 16:38:11,883 - services - INFO - Se encontraron 4 productos en la categoría men's clothing
+2025-10-24 16:38:11,892 - services - INFO - Se obtuvieron 7 carritos
+2025-10-24 16:38:11,915 - services - INFO - Usuario creado exitosamente: test@example.com (ID: 11)
+2025-10-24 16:38:11,920 - services - INFO - Usuario encontrado: john@gmail.com (ID: 1)
+2025-10-24 16:38:11,923 - services - INFO - Usuario actualizado exitosamente: john@gmail.com (ID: 1)
+2025-10-24 16:38:11,934 - services - INFO - Usuario encontrado: test@example.com (ID: 11)
+2025-10-24 16:38:11,946 - services - INFO - Usuario eliminado exitosamente: test@example.com (ID: 11)
+2025-10-24 16:38:11,954 - services - WARNING - Usuario no encontrado: ID 999
+2025-10-24 16:38:11,962 - services - WARNING - Producto no encontrado: ID 999
+2025-10-24 16:38:11,973 - services - WARNING - Usuario no encontrado: ID 9999
+2025-10-24 16:38:11,979 - services - WARNING - Usuario no encontrado: ID 9999
+2025-10-24 16:38:11,979 - services - WARNING - Usuario no encontrado para eliminar: ID 9999
+2025-10-24 16:38:11,989 - services - WARNING - Usuario no encontrado: ID 9999
+2025-10-24 16:38:11,989 - services - WARNING - Usuario no encontrado para actualizar: ID 9999
+2025-10-24 16:38:12,216 - app - INFO - 🛑 JaGaStore API detenida
+2025-10-24 16:46:08,814 - app - INFO - ✅ Base de datos encontrada
+2025-10-24 16:46:08,815 - app - INFO - 🚀 JaGaStore API iniciada
+2025-10-24 16:46:12,963 - services - INFO - Se obtuvieron 10 usuarios
+2025-10-24 16:46:12,974 - services - INFO - Usuario encontrado: john@gmail.com (ID: 1)
+2025-10-24 16:46:12,983 - services - INFO - Se obtuvieron 20 productos
+2025-10-24 16:46:12,990 - services - INFO - Se encontraron 4 productos en la categoría men's clothing
+2025-10-24 16:46:12,997 - services - INFO - Se obtuvieron 7 carritos
+2025-10-24 16:46:13,019 - services - INFO - Usuario creado exitosamente: test@example.com (ID: 11)
+2025-10-24 16:46:13,028 - services - INFO - Usuario encontrado: john@gmail.com (ID: 1)
+2025-10-24 16:46:13,030 - services - INFO - Usuario actualizado exitosamente: john@gmail.com (ID: 1)
+2025-10-24 16:46:13,036 - services - INFO - Usuario encontrado: test@example.com (ID: 11)
+2025-10-24 16:46:13,043 - services - INFO - Usuario eliminado exitosamente: test@example.com (ID: 11)
+2025-10-24 16:46:13,049 - services - WARNING - Usuario no encontrado: ID 999
+2025-10-24 16:46:13,058 - services - WARNING - Producto no encontrado: ID 999
+2025-10-24 16:46:13,067 - services - WARNING - Usuario no encontrado: ID 9999
+2025-10-24 16:46:13,072 - services - WARNING - Usuario no encontrado: ID 9999
+2025-10-24 16:46:13,072 - services - WARNING - Usuario no encontrado para eliminar: ID 9999
+2025-10-24 16:46:13,078 - services - WARNING - Usuario no encontrado: ID 9999
+2025-10-24 16:46:13,078 - services - WARNING - Usuario no encontrado para actualizar: ID 9999
+2025-10-24 16:46:13,430 - app - INFO - 🛑 JaGaStore API detenida
