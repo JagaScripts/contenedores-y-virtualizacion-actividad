@@ -10,7 +10,7 @@ services:
     ports:
       - "8080:8080"
     volumes:
-      - database_data:/core
+      - database_data:/app/core
     networks:
       - app-network
 
