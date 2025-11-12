@@ -2,11 +2,12 @@
 FROM python:3.12.3-alpine
 
 # Establecemos el directorio de trabajo dentro del contenedor
-WORKDIR /app
+WORKDIR /
 
 # Copiamos el archivo de requisitos al contenedor
-COPY ./app/ ./
-COPY requirements.txt ./
+WORKDIR /
+COPY ./app ./app
+COPY requirements.txt .
 
 # Creamos un entorno virtual para aislar las dependencias
 RUN python -m venv env_fastapi
@@ -24,4 +25,4 @@ RUN pip install -r requirements.txt
 EXPOSE 8080
 
 # Comando para ejecutar la aplicación
-CMD ["uvicorn", "main:app", "--reload", "--host", "0.0.0.0", "--port", "8080"]
+CMD ["uvicorn", "appmain:app", "--reload", "--host", "0.0.0.0", "--port", "8080"]
