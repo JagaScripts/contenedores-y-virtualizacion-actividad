@@ -5,8 +5,7 @@ FROM python:3.12.3-alpine
 WORKDIR /app
 
 # Copiamos el archivo de requisitos al contenedor
-COPY ./ ./
-COPY requirements.txt ./requirements.txt
+COPY . .
 
 # Creamos un entorno virtual para aislar las dependencias
 RUN python -m venv env_fastapi
