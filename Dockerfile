@@ -5,7 +5,6 @@ FROM python:3.12.3-alpine
 WORKDIR /
 
 # Copiamos el archivo de requisitos al contenedor
-WORKDIR /
 COPY ./app ./app
 COPY requirements.txt .
 
