@@ -1,0 +1,35 @@
+# Docker Compose configuration file
+# Este archivo configura los servicios para una aplicación FastAPI y una base de datos SQLite.
+
+# Definición de servicios
+services:
+
+# Servicio de la aplicación FastAPI
+  api:
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      - database_data:/app/core
+    networks:
+      - app-network
+
+# Servicio de base de datos SQLite simulado
+  db:
+    image: alpine:latest
+    command: sh -c "sleep infinity"
+    volumes:
+      - database_data:/data
+    networks:
+      - app-network
+
+# Definición de volúmenes
+
+volumes:
+  database_data:
+
+# Definición de redes
+
+networks:
+  app-network:
+    driver: bridge
